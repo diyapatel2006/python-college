@@ -1,0 +1,61 @@
+def names():
+    name=[('Pearl','Devan','Om'),'Diya','Vedi',('Rushi','Mitul'),'Rutvi']
+    x=instance(name,tuple)
+    print('no of girls',x)
+    names()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                 
